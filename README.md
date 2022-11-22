@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @xraybat
-- 👀 I’m interested in programming lkanguages
+- 👀 I’m interested in programming languages
 - 🌱 I’m currently learning Scala (v2 and v3)
-- 💞️ I’m looking to collaborate on openm source projects
-- 📫 How to reach me here or xraybat@gmail.com
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 Reach me here or at xraybat@gmail.com
 
 software developer / integration ● windows / macOS / linux debian, mint ● c++ / c# / c ● groovy / scala, actor model / java ● bash ● visual studio, intellij
 
