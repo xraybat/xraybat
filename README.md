@@ -4,7 +4,7 @@
 - 💞️ i’m looking to collaborate on open source projects
 - 📫 reach me here or at xraybat@gmail.com
 
-software developer / integration ● windows / macOS / linux debian, mint ● c++ / c# / c ● groovy / scala, actor model / java ● bash ● vs code-studio, intellij, sublime text-merge
+software developer / integration ● windows / macOS / linux debian, mint ● c++ / c# / c ● groovy / scala, actor model / java ● bash ● vs code-studio, jetbrains intellij IDEA, sublime text-merge
 
 <!---
 xraybat/xraybat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
