@@ -3,7 +3,7 @@
 - 🌱 i’m currently learning Scala (v2 and v3)
 - 💞️ i’m looking to collaborate on open source projects
 
-software developer / integration ● windows / macOS / linux debian, mint ● c++ / c# / c ● groovy / scala, actor model / java ● bash ● MS visual code-studio, jetbrains intellij IDEA, sublime text-merge
+software developer / integration ● windows / macOS / linux debian, mint ● c++ / c# / c ● groovy / scala, actor model / java ● bash ● visual code-studio / jetbrains intellij IDEA / sublime text-merge
 
 <!---
 xraybat/xraybat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
